@@ -1,4 +1,12 @@
 {
     "openai_key": "",
-    "modules": []
+    "modules": [
+        "main_navigation",
+        "dashboard",
+        "product_list",
+        "product_detail",
+        "cart",
+        "notification",
+        "profile"
+    ]
 }
