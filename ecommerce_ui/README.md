@@ -18,3 +18,5 @@ https://images.ui8.net/uploads/preview-01_1624935714528.jpg
 ![alt text](screenshot/3.jpg)
 
 ![alt text](screenshot/4.jpg)
+
+<img src="screenshot/4.jpg" alt="alt text" width="50%">
