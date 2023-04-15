@@ -1,16 +1,11 @@
-# ecommerce_ui
+Referensi Design:
+https://ui8.net/designe-studio/products/rika---ecommerce-mobile-app-ui-kit
 
-A new Flutter project.
+Screenshot:
+https://images.ui8.net/uploads/preview-01_1624935714528.jpg
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI yang akan dibuat:
+Dashboard
+ProductList
+ProductDetail
+CartView
