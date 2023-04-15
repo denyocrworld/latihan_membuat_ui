@@ -11,12 +11,15 @@ class DashboardView extends StatefulWidget {
 
     return Scaffold(
       appBar: AppBar(
-        actions: const [
+        actions: [
           Padding(
-            padding: EdgeInsets.all(8.0),
-            child: CircleAvatar(
-              backgroundImage: NetworkImage(
-                "https://i.ibb.co/PGv8ZzG/me.jpg",
+            padding: const EdgeInsets.all(8.0),
+            child: InkWell(
+              onTap: () => Get.to(const DemoView()),
+              child: const CircleAvatar(
+                backgroundImage: NetworkImage(
+                  "https://i.ibb.co/PGv8ZzG/me.jpg",
+                ),
               ),
             ),
           ),
