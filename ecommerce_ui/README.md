@@ -11,12 +11,7 @@ https://images.ui8.net/uploads/preview-01_1624935714528.jpg
 - CartView
 
 ### Screenshot
-![alt text](screenshot/1.jpg)
-
-![alt text](screenshot/2.jpg)
-
-![alt text](screenshot/3.jpg)
-
-![alt text](screenshot/4.jpg)
-
+<img src="screenshot/1.jpg" alt="alt text" width="50%">
+<img src="screenshot/2.jpg" alt="alt text" width="50%">
+<img src="screenshot/3.jpg" alt="alt text" width="50%">
 <img src="screenshot/4.jpg" alt="alt text" width="50%">
