@@ -11,7 +11,10 @@ https://images.ui8.net/uploads/preview-01_1624935714528.jpg
 - CartView
 
 ### Screenshot
-![alt text](screenshot/1.png)
-![alt text](screenshot/2.png)
-![alt text](screenshot/3.png)
-![alt text](screenshot/4.png)
+![alt text](screenshot/1.jpg)
+
+![alt text](screenshot/2.jpg)
+
+![alt text](screenshot/3.jpg)
+
+![alt text](screenshot/4.jpg)
